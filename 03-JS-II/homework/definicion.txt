@@ -1,0 +1,8 @@
+for: Es una instrucción utilizada para repetir una acción un determinado número de veces,
+hasta que se cumpla una condicion que lo detiene.
+
+&&: Operador lógico (y) que sirve para ejecutar una acción si y solo si se cumplen dos o mas condiciones.
+
+||: operador lógico (ó), sirve para ejecutar una acción si al menos una de las condiciones es verdadera.
+
+! : operador lógico (negación), sirve para tomar una decisión cuando el resultado sea diferente al de la expresión.
