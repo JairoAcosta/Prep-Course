@@ -1,0 +1,6 @@
+definición de array:
+conjunto de elementos almacenados en una variable a los cuales se les puede acceder desde su incice 
+que inicia en cero. un array se declara igual que una variable conla diferencia de que su contenido
+va entre corchetes, para acceder a un elemento de unarray se escribe su nombre seguido de los corchetes
+y el indice del elemento al que se quiere acceder.
+para saber el tamaño de un arreglo se utiliza el metodo length de el objeto array.
