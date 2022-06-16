@@ -1,0 +1,20 @@
+Objetos: Son una estructura de código capáz de contener variables a las cuales se les llaman propiedades
+y funciones a las que se le llaman métodos. los cuales estan unidos para realizar tareas comumes.
+la idea de los objetos, es tratar de asemejarse a los objetos de la vida real los cuales 
+tienen tienen unas características (tamaño,color,peso,etc) y realizan alguna función (acelerar,frenar,girar
+en el ejemplo de un objeto carro). 
+
+Propiedades: Son variables almacenadas en los objetos para definir las características del mismo.
+es decir su estructura física por decirlo de alguna manera.
+
+Métodos: Son funciones almacenadas dentro de los objetos los cuales les dan la funcionalidad 
+específica del mismo.
+
+Bucle 'for...in': es un bucle específico diseñado para recorrer por todas las propiedades y métodos
+de un objeto y devolver su valor.
+
+Notación de puntos Vs Notación de corchetes: ambas notaciones pueden utilizarse indistintamente para 
+acceder a las propides y métodos de un objeto, salvo en algunas circunstancias como por ejemplo
+cuanto se accede a un objeto desde una variable es necesario utilizar notación de corchetes. la cual
+primero resuelve la variable y luego accede a la propiedad.
+
